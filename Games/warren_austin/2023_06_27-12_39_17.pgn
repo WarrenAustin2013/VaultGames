@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/sq3DMrha"]
+[Date "2023.06.27"]
+[Round "?"]
+[White "osBTD"]
+[Black "warren_austin"]
+[Result "1-0"]
+[BlackElo "775"]
+[ECO "C40"]
+[Termination "Normal"]
+[TimeControl "120+1"]
+[UTCDate "2023.06.27"]
+[UTCTime "12:39:17"]
+[Variant "Standard"]
+[WhiteElo "1164"]
+
+1. e4 e5 2. Nf3 Bc5 3. c3 Qf6 4. b4 Bb6 5. d3 d6 6. a4 Bg4 7. a5 Bxf3 8. Qxf3 Bxf2+ 9. Kxf2 Qxf3+ 10. Kxf3 f5 11. exf5 Nh6 12. Bxh6 gxh6 13. g4 Rg8 14. Be2 h5 15. h3 hxg4+ 16. hxg4 h5 17. Rxh5 Rxg4 18. Kxg4 Nd7 19. Rh8+ Nf8 20. Nd2 O-O-O 21. Ne4 Nd7 22. Rxd8+ Kxd8 23. Rh1 Ke7 24. Rh7+ Kf8 25. Rxd7 Ke8 26. Rxc7 Kd8 27. Rxb7 Kc8 28. Rxa7 Kb8 29. Rf7 Kc8 30. Nxd6+ Kd8 31. Nb5 e4 32. a6 exd3 33. a7 Kc8 34. a8=R# 1-0

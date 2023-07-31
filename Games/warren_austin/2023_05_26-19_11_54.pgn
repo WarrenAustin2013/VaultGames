@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/d9NSYdTu"]
+[Date "2023.05.26"]
+[Round "?"]
+[White "cinqhuit"]
+[Black "warren_austin"]
+[Result "1-0"]
+[BlackElo "1010"]
+[ECO "A40"]
+[Termination "Normal"]
+[TimeControl "300+4"]
+[UTCDate "2023.05.26"]
+[UTCTime "19:11:54"]
+[Variant "Standard"]
+[WhiteElo "1418"]
+
+1. d4 e5 2. dxe5 Bc5 3. Nf3 d6 4. exd6 Qf6 5. c3 g5 6. h3 g4 7. hxg4 h5 8. gxh5 Nh6 9. Bxh6 Rxh6 10. dxc7 Rxh5 11. Rxh5 b6 12. cxb8=Q Rxb8 13. Qa4+ b5 14. Qe4+ Be7 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/DoFbWDSR"]
+[Date "2023.07.28"]
+[Round "?"]
+[White "lichess AI level 2"]
+[Black "warren_austin"]
+[Result "1-0"]
+[BlackElo "1413"]
+[ECO "C40"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.07.28"]
+[UTCTime "13:10:46"]
+[Variant "Standard"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 1-0

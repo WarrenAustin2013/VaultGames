@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/42sIa1d1"]
+[Date "2023.07.28"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 1"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B00"]
+[Termination "Normal"]
+[TimeControl "120+1"]
+[UTCDate "2023.07.28"]
+[UTCTime "13:20:54"]
+[Variant "Standard"]
+[WhiteElo "980"]
+
+1. d4 d5 2. Nc3 Nc6 3. e4 e5 4. exd5 Nxd4 5. Be3 Nf5 6. g4 Nh4 7. f3 Bd7 0-1

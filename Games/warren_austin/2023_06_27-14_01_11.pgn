@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/WZySGCmF"]
+[Date "2023.06.27"]
+[Round "?"]
+[White "K1wy"]
+[Black "warren_austin"]
+[Result "1-0"]
+[BlackElo "1010"]
+[ECO "D24"]
+[Termination "Normal"]
+[TimeControl "180+0"]
+[UTCDate "2023.06.27"]
+[UTCTime "14:01:11"]
+[Variant "Standard"]
+[WhiteElo "1500"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. Nf3 c5 5. e3 cxd4 6. exd4 Bg4 7. Bxc4 Nd5 8. Bxd5 Qxd5 9. Nxd5 Bxf3 10. Qxf3 Nc6 11. Nc7+ Kd8 12. Nxa8 Nxd4 13. Qd5+ Ke8 14. Nc7# 1-0

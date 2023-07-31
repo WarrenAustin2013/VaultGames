@@ -1,0 +1,17 @@
+[Event "Casual Antichess game"]
+[Site "https://lichess.org/0FwSnav3"]
+[Date "2023.07.05"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "?"]
+[Termination "Normal"]
+[TimeControl "60+0"]
+[UTCDate "2023.07.05"]
+[UTCTime "11:05:33"]
+[Variant "Antichess"]
+[WhiteElo "1404"]
+
+1. e4 f5 2. exf5 g6 3. fxg6 hxg6 4. Nf3 Rxh2 5. Rxh2 b5 6. Bxb5 g5 7. Bxd7 Nxd7 8. Nxg5 Kf7 9. Nxf7 Ngf6 10. Nxd8 Ng4 11. Qxg4 e6 12. Qxe6 Bb7 13. Qxd7 Rxd8 14. Qxd8 Bxg2 15. Qxf8 Ba8 16. Qxa8 c5 17. Qxa7 c4 18. Qa3 c3 19. Qxc3# 0-1

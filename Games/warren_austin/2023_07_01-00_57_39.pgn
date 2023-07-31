@@ -1,0 +1,17 @@
+[Event "Casual Antichess game"]
+[Site "https://lichess.org/m4PP3s87"]
+[Date "2023.07.01"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "?"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.07.01"]
+[UTCTime "00:57:39"]
+[Variant "Antichess"]
+[WhiteElo "1404"]
+
+1. e4 f5 2. exf5 b5 3. Bxb5 Nc6 4. Bxc6 dxc6 0-1

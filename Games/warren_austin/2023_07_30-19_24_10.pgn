@@ -1,0 +1,17 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/uu5DjSuA"]
+[Date "2023.07.30"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 1"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D00"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.07.30"]
+[UTCTime "19:24:10"]
+[Variant "Standard"]
+[WhiteElo "1370"]
+
+1. d4 d5 0-1

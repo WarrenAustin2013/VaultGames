@@ -1,0 +1,18 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/XaLdz0h5"]
+[Date "2023.07.09"]
+[Round "?"]
+[White "warren_austin"]
+[Black "CodingAdventureBot"]
+[Result "0-1"]
+[BlackElo "2653"]
+[BlackTitle "BOT"]
+[ECO "B00"]
+[Termination "Normal"]
+[TimeControl "180+0"]
+[UTCDate "2023.07.09"]
+[UTCTime "21:15:40"]
+[Variant "Standard"]
+[WhiteElo "1010"]
+
+1. e4 d6 2. d4 g6 3. e5 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Bb5 Bg4+ 7. f3 Bd7 8. Bxc6 Bxc6 9. Nh3 Rd8+ 10. Ke1 Rd5 11. Bf4 Bg7 12. g4 Bxe5 13. Bxe5 Rxe5+ 14. Kd1 Bxf3+ 15. Kc1 Bxh1 16. Kd1 Bf3+ 17. Kd2 Re2+ 18. Kd3 Rxh2 19. Ng5 Be2+ 20. Ke3 Nf6 21. Ne4 Nxg4+ 22. Kf4 f5 23. Nc5 e5+ 24. Kg5 Rh5# 0-1

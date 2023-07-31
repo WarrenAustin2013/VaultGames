@@ -1,0 +1,17 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/OEcvceW9"]
+[Date "2023.07.17"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B21"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.07.17"]
+[UTCTime "20:48:36"]
+[Variant "Standard"]
+[WhiteElo "1552"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd3 Nf6 5. Qe3 d5 6. exd5 Qxd5 7. Qd3 Qc5 8. Qc3 e5 9. Qxc5 Bxc5 10. Nf3 O-O 11. Bd3 Bd7 12. Ng5 Nb4 13. c3 Nxd3+ 14. Kd2 Bf5 15. Nxh7 Ne4+ 16. Kxd3 Kxh7 17. Ke2 Nxf2 18. Kd2 a6 19. Rf1 Rfc8 20. Rxf2 g6 21. Ke2 Re8 22. Rxf5 gxf5 23. Kd3 Re6 24. Kc4 Bb6 25. Kd5 e4 26. c4 Rd8# 0-1

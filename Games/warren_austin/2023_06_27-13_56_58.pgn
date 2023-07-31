@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/jZzTbwV5"]
+[Date "2023.06.27"]
+[Round "?"]
+[White "warren_austin"]
+[Black "chessychair"]
+[Result "0-1"]
+[BlackElo "1088"]
+[ECO "C25"]
+[Termination "Normal"]
+[TimeControl "180+0"]
+[UTCDate "2023.06.27"]
+[UTCTime "13:56:58"]
+[Variant "Standard"]
+[WhiteElo "1010"]
+
+1. e4 e5 2. Nc3 Bc5 3. Nf3 Nc6 4. d4 Nxd4 5. Nxd4 Bxd4 6. Nb5 Bb6 7. f4 f6 8. fxe5 fxe5 9. g3 a6 10. Na3 Nf6 11. Nc4 Ba7 12. Nxe5 Qe7 13. Nc4 Qxe4+ 14. Be2 Qxh1+ 15. Kd2 Qxd1+ 16. Bxd1 O-O 17. Be2 d5 18. b3 dxc4 19. Bb2 cxb3 20. cxb3 Bf5 21. Rf1 Bg6 22. Bc4+ Kh8 23. Bxf6 Rxf6 24. Re1 Rd8+ 25. Kc3 Bf7 26. Bxf7 Rxf7 27. Rb1 Rdf8 28. Rc1 Rf6 29. Rd1 Rd6 30. Rxd6 cxd6 31. g4 Rf2 32. Kc4 Rxa2 33. Kd5 Bc5 34. Ke6 Rxh2 35. Kf7 Rg2 36. g5 Rxg5 37. b4 Bxb4 38. Kf8 d5+ 39. Kf7 d4 40. Ke6 Rg6+ 41. Kd7 d3 42. Kc7 d2 43. Kd7 d1=Q+ 44. Kc7 b5 45. Kb7 a5 46. Ka7 a4 47. Kb7 Ba5 48. Ka7 Bd8 49. Kb7 Bg5 50. Ka7 Bh6 51. Kb7 b4 52. Ka7 b3 53. Kb7 a3 54. Ka7 a2 55. Kb7 b2 56. Ka7 Qd3 57. Ka8 Rg4 58. Kb8 Rc4 59. Ka8 Qb3 60. Ka7 b1=N 61. Ka8 a1=N 62. Ka7 Ra4# 0-1

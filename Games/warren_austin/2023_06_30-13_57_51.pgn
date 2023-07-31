@@ -1,0 +1,17 @@
+[Event "Casual Antichess game"]
+[Site "https://lichess.org/aJANiUpm"]
+[Date "2023.06.30"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "?"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.06.30"]
+[UTCTime "13:57:51"]
+[Variant "Antichess"]
+[WhiteElo "1404"]
+
+1. e4 f5 2. exf5 b5 0-1

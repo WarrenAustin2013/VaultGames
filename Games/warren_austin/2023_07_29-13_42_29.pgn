@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/lDvVdBb8"]
+[Date "2023.07.29"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+[TimeControl "600+0"]
+[UTCDate "2023.07.29"]
+[UTCTime "13:42:29"]
+[Variant "Standard"]
+[WhiteElo "941"]
+
+1. d4 d5 0-1

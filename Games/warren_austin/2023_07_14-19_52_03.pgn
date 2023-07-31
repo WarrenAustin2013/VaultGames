@@ -1,0 +1,18 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/UDaXXlpm"]
+[Date "2023.07.14"]
+[Round "?"]
+[White "warren_austin"]
+[Black "CodingAdventureBot"]
+[Result "0-1"]
+[BlackElo "2636"]
+[BlackTitle "BOT"]
+[ECO "A40"]
+[Termination "Normal"]
+[TimeControl "180+0"]
+[UTCDate "2023.07.14"]
+[UTCTime "19:52:03"]
+[Variant "Standard"]
+[WhiteElo "1081"]
+
+1. d4 e6 2. Nc3 f5 3. e4 fxe4 4. Nxe4 Nc6 5. Bc4 d5 6. Bb5 dxe4 7. Bxc6+ bxc6 8. Qe2 Qxd4 9. Be3 Qxb2 10. Rd1 Bb4+ 11. Bd2 Nf6 12. Bxb4 Qxb4+ 13. Qd2 Qxd2+ 14. Kxd2 O-O 15. Ke1 Ng4 16. f3 Ne3 17. Rd3 Nxc2+ 18. Kd1 exd3 0-1

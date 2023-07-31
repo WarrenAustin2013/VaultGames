@@ -1,0 +1,18 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/vtcg77ee"]
+[Date "2023.07.09"]
+[Round "?"]
+[White "warren_austin"]
+[Black "CodingAdventureBot"]
+[Result "0-1"]
+[BlackElo "2749"]
+[BlackTitle "BOT"]
+[ECO "B10"]
+[Termination "Normal"]
+[TimeControl "30+0"]
+[UTCDate "2023.07.09"]
+[UTCTime "21:19:28"]
+[Variant "Standard"]
+[WhiteElo "715"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bd3 e5 5. Bf5 Bxf5 6. Nh3 Nc6 7. g4 Qh4 8. Ng1 Bxg4 9. Qxg4 Qxg4 10. f3 Qg2 11. Kd1 Qf1# 0-1

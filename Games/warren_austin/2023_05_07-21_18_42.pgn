@@ -1,0 +1,17 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/pBLWoJK1"]
+[Date "2023.05.07"]
+[Round "?"]
+[White "warren_austin"]
+[Black "lichess AI level 8"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "B20"]
+[Termination "Normal"]
+[TimeControl "-"]
+[UTCDate "2023.05.07"]
+[UTCTime "21:18:42"]
+[Variant "Standard"]
+[WhiteElo "1500"]
+
+1. e4 c5 2. Bc4 e6 3. Qh5 Nc6 4. Qg4 Nf6 5. Qe2 Nd4 6. Qf3 Nxf3+ 7. gxf3 a6 0-1
